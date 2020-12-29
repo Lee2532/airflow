@@ -1,0 +1,9 @@
+beautifulsoup4==4.9.1
+bs4==0.0.1
+numpy==1.19.2
+pandas==1.1.2
+requests==2.24.0
+selenium==3.141.0
+slacker==0.14.0
+urllib3==1.25.10
+webdriver-manager==3.2.2
